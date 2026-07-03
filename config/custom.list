@@ -1,6 +1,18 @@
 # MyDirect.list
 DOMAIN-SUFFIX,alibaba-inc.com
+DOMAIN-SUFFIX,antfin-inc.com
+DOMAIN-SUFFIX,aliyun-inc.com
 DOMAIN-SUFFIX,dingtalk.com
 DOMAIN-SUFFIX,antfin.com
+DOMAIN-SUFFIX,aliway.com
 DOMAIN-KEYWORD,alibaba-inc
+DOMAIN-KEYWORD,antfin-inc
+DOMAIN-KEYWORD,aliyun-inc
 DOMAIN-KEYWORD,dingtalk
+DOMAIN-KEYWORD,atatech
+DOMAIN-KEYWORD,antfin
+DOMAIN-KEYWORD,aliway
+DOMAIN-KEYWORD,qoder
+DOMAIN-KEYWORD,aone
+DOMAIN-KEYWORD,devix
+
