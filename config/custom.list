@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,aliyun-inc.com
 DOMAIN-SUFFIX,dingtalk.com
 DOMAIN-SUFFIX,antfin.com
 DOMAIN-SUFFIX,aliway.com
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,alibaba.net
 DOMAIN-KEYWORD,alibaba-inc
 DOMAIN-KEYWORD,antfin-inc
 DOMAIN-KEYWORD,aliyun-inc
@@ -15,4 +17,5 @@ DOMAIN-KEYWORD,aliway
 DOMAIN-KEYWORD,qoder
 DOMAIN-KEYWORD,aone
 DOMAIN-KEYWORD,devix
+DOMAIN-KEYWORD,alibaba
 
